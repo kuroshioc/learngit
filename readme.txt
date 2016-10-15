@@ -1,2 +1,2 @@
-git is a
-git
+git is a distributed
+git is free software.
